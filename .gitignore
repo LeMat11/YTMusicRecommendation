@@ -1,0 +1,43 @@
+# Secrets & credentials
+.env
+.env.*
+!.env.example
+keys.env
+cookie.txt
+headers_*.txt
+credentials*.json
+secrets*.json
+token*.json
+
+# YouTube Music auth files (per-user OAuth tokens)
+browser_*.json
+oauth_*.json
+client_secret*.json
+
+# Local user preferences
+users.local.json
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+run_log.txt
+
+# Local tool settings
+.claude/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/

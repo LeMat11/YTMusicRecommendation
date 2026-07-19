@@ -1,0 +1,4 @@
+ytmusicapi
+google-generativeai
+openai
+python-dotenv

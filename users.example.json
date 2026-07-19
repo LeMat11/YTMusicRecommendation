@@ -1,0 +1,12 @@
+[
+  {
+    "id": "user1",
+    "auth_file": "browser_user1.json",
+    "playlist_name": "Daily Discovery",
+    "prompt_extra": "I like hidden gems and instrumental music.",
+    "source": "mixed",
+    "history_ratio": 0.8,
+    "taste_limit": 50,
+    "rec_count": 15
+  }
+]
